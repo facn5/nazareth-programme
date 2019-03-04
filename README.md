@@ -4,9 +4,8 @@ The Nazareth Programme repository is a place for discussions by the wider member
 
 ## Suggested reading
 
-- [Student commitment](https://github.com/foundersandcoders/nazareth-programme/blob/master/student-commitment.md)
-- [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code-of-conduct.md)
-- A brief [history](https://github.com/foundersandcoders/international/blob/master/history.md) of Founders & Coders
+- [Student commitment](https://github.com/facn5/nazareth-programme/blob/master/student-commitment.md)
+- [Code of Conduct](https://github.com/facn5/nazareth-programme/blob/master/code-of-conduct.md)
 
 ## Calendar
 
@@ -50,20 +49,11 @@ Please upload photos and videos to the [Nazareth programme Google Drive](https:/
 - [Minutes template](https://github.com/foundersandcoders/master-reference/tree/master/cooperative-structures/minutes-template.md)
 - [Hangout link](https://hangouts.google.com/hangouts/_/7qhlsmskqrcjnkumg2ojmaragqe)
 
-## Nazareth programme repositories:
 
-[Nazareth Employers (private):](https://github.com/foundersandcoders/nazareth-employers)  Information about employers and jobs
-
-[Nazareth Membership](https://github.com/foundersandcoders/nazareth-membership): Membership records, membership Committee decisions
-
-[Nazareth Money (private):](https://github.com/foundersandcoders/nazareth-money) Discussions about money, budget documentation, decisions by Finance Committee
-
-## Other important repositories:
-
-[HQ (private):](https://github.com/foundersandcoders/international) Founders & Coders International
+## Other important repositories
 
 [Master Reference:](https://github.com/facn5/master-reference) A master reference for the running of Founders & Coders, including the curriculum
 
 ## Coding for Everyone
-- [Guidelines](https://github.com/foundersandcoders/nazareth-programme/blob/master/coding-for-everyone.md)
+- [Guidelines](https://github.com/facn5/nazareth-programme/blob/master/coding-for-everyone.md)
 - [Attendance](https://docs.google.com/spreadsheets/d/1kx86srKVV1_tEOHsI1-SUnOPaWWxzW1umN6nCsDFqh0/edit#gid=0)
