@@ -1,12 +1,12 @@
 ## Weeks 1+2
 
-A Tamer 
-B Hanan
-C Majd
+**A** Tamer 
+**B** Hanan
+**C** Majd
 
-D Karam
-E Shadi
-F John
+**D** Karam
+**E** Shadi
+**F** John
 
-G Faris
-H Obayda
+**G** Faris
+**H** Obayda
