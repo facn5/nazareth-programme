@@ -1,0 +1,97 @@
+### STOP
+- Non-squeaky chairs as standing desks
+    - We have a limited amount of non-squeaky chairs
+    - Gaffer tape on chair feet didn't really work
+    - **Action point: aim to have 16 non-squeaky chairs - maybe nick some more black chairs from corridors**
+- Stop typos in skeletons
+    - Skeleton files were beneficial, but there were some misleading typos and comments
+- Stop having only international mentors in office hours
+    - It would be beneficial for local students to have Shireen or Esra present
+    - Esra: even if your English isn't the best, talking with Eoin and Matt one-on-one will be a good opportunity to practice English
+    - Hiba: the focus should be more on the material than learning English
+    - Matt: try to make use of office hours - even when Arabic-speaking mentors can't be present
+    - Hiba: felt very lost with this project in particular, and it would be helpful to be able to talk through it in Arabic to make sure we understand exactly what's going on
+    - **Action point: Esra and Shireen will discuss it and come up with some sort of schedule, maybe for next week**
+    - Esra will be here from 9:30 in weeks 4 and 5
+    - Jack M: wonders how sustainable office hours will be in the long term - is there a day when it would be particularly useful?
+    - Lawson: beginning of the week when the material is still fresh - also people are staying in office hours and just chatting, might be good if people only stayed if they really needed help
+    - Edgar: agrees with Lawson - too much chatting in here during office hours
+    - Eoin: the idea isn't that everyone is at a certain standard by the end of the course - FAC will support people's learning and job-seeking after they've finished the course as well - important to pace yourself and enjoy the course, rather than pushing yourself too hard - try not to stress out, don't worry if projects don't come together
+    - Morning office hours have been in Eoin's office - maybe the after hours could be as well? Hopefully we won't need to use MG's laptop for internet after Will arrives later today
+- More than 2.5 days of project
+    - Lubes: lots of us were burning out a bit on this project - completing all the instructions was only about 20 lines of code - are we really getting a lot out of it after 2.5 days working on such a small amount of code? Maybe a shorter timeframe would be more beneficial
+    - Justen: the amount of code that you write is heavily linked to the skeleton setup - without this skeleton there would've been a lot more to do
+    - MG: the idea behind the skeleton is to offer some idea of a best practice - when MG did the course there weren't any examples of good practice given, a lot of freedom in projects - by the end of the course he still didn't have much idea of good practice, and the skeleton code aims to address this
+    - MG: even if you only write 10 lines of code, if you understand them and they're good practice, then that's beneficial
+    - Lubes: mainly that you can't get much out of struggling for 2 days and not getting much out of it - you don't learn much from sitting there not learning what to write
+    - Lawson: maybe a walkthrough of the skeleton code before we start
+    - Lubes: it was hard to explain what's going on in the code for this project
+    - Eoin: we won't use a skeleton in the coming weeks, but it's likely it'll be used again in the next curriculum - maybe we should kick this off with a workshop (a walkthrough, writing tests)
+    - Mavis: spend time going through the skeleton code in groups first and then presenting back on it before starting work on the project
+    - Jack M: how about introducing structure / good layout practices in a workshop earlier in the week, and then implementing this from scratch for the actual project - a few people in agreement
+
+### GO
+- Projector screen:
+    - Rig up projection screen in classroom
+    - **Action points: need to source a projector screen, maybe ask Liwan**
+- Room for individual study / practice:
+    - Lawson: particularly for the first two days when covering new material - still trying to wrap head around new material when thrown into workshops / projects with others - it would be good to provide some room for individual learning before working in pairs or teams
+    - Shireen: FAC encourages pair programming
+    - Justen: maybe we have been pushing pair programming too much
+    - Lawson: maybe if the pairing is a bit looser - both working on the same thing but separate computers?
+    - Elias: two people working on the same branch together, both experimenting with different things - on separate computers but on the same branch, still discussing ideas etc.
+    - Mavis: pairing in workshops - at the beginning people are still trying to get their heads around things - might be useful to spend some time getting your heads round it individually before
+    - Mavis: might be better to stick with the same pair for the whole day
+    - Lubes: disagrees, we should have random pairs more - changing pairs during the day
+    - Lawson: maybe make sure the pairs are equitable - someone with a higher skill level pairing with a lower skill level
+    - Shireen: encourage people to sit somewhere else, pairing with someone different each time
+    - Eoin: you should try and pair with different people each time, and try both driving and navigating with each person
+    - **Action point: get lollipops for allocating pairs etc.**
+    - MG: it's up to the pairs - if you want to process the problem before talking about it, then go for it
+- Use more comments in skeleton instead of ready code
+    - Guiding good practices, but with less existing code
+    - Lubes: disagrees - only just finished, would never have got close without the existing code
+    - MG: emphasis should be on good practice and understanding
+- Do SGC during lunchtime
+    - Edgar: maybe people would feel more comfortable filling it out during lunchtime
+    - **Action point: do this...**
+- Music during project time
+    - MG: challenging - some people don't like it, won't all like the same music etc.
+- Arabic lessons
+    - Suha: willing to take it on, but will need help with it (Hiba volunteers)
+    - Once a week? Maybe at Liwan?
+    - Suha: provide suggestions about what you'd prefer
+- List of links to key internal resources
+    - There are loads of different resources in different repos - the organisation is confusing
+    - Jack M: part of this will be sorted with the forked master reference next week - it's particular confusing with FACN1 at the moment
+    - Justen: we could create a glossary of important links - within the READMe of FACN1
+    - Eoin: FACN1 should be just for the students to use
+    - Esra: upload resources to FACN1 each day - maybe assign someone to do the uploads for each workshop / research topic
+    - Jack M: remember you can star / fork things on GitHub
+- Friday football
+    - Mohammed organising - doesn't have to be football, could be some other social activity
+- Chatting on Gitter
+    - Esra: make greater use of Gitter, despite its flaws
+    - Internet situation outside of office - still an issue for everyone (in guesthouse / apartment / girls' apartment)
+- Session going over basics repetitively
+    - Lubes: e.g. the map() function - might be good to go through and write these functions out in detail, helping people get their heads round it before we start using them
+    - Jack M: has written a workshop on map(), which will either be posted on Gitter, or given to the group next week
+    - MG: when there's new material maybe it should be presented in small bitesize chunks first
+- Overview of the final outcome of a project / workshop
+    - Lubes: agrees, yesterday some of the group were still unsure about what they were actually trying to make - maybe show a finished version first and talk about it before
+    - MG: important to check these things when there might be a language / cultural barrier - but thought it would be okay since someone on the team would be able to explain it to the others
+    - Lubes: more of an issue on this project, since you were given a skeleton and it was easy to jump straight into the code without spending time considering the final product
+    - Reem: give an overview of the ideal outcome - not necessarily the code, more an example of the final app
+    - MG: normally there's a spec of what's required for the app - the READMe in this case was lacking - missing user stories etc.
+
+### CONTINUE
+- Good timing
+    - Punctuality and attendance has improved since last week
+- Skeleton structure for project
+    - Already covered
+- Useful wall posters
+    - GitHub poster is a good example
+- Keeping lights on in workspace
+- Office hours?
+    - Yes for next week, and then revisit
+    - **Action point: Shireen, MG and Jack M will stay after, and Eoin will be here an hour early in the morning**
