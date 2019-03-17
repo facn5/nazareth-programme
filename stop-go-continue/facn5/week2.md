@@ -29,7 +29,7 @@
 * But also:  the projects are never really done, you can always refactor code, help your colleagues, etc.
 * The point of being here is not that you just finish the workshops, but that everybody is learning.
 * Example: We only used GET method..learn POST.  We only learned fetch, learn XMLHttpRequest, etc.  There is a lot to learn.
-## Be "present".
+## Be "present"
 # Continue
 ## Keep making mistakes
 * Keep learning
