@@ -41,15 +41,15 @@ Be "present".
 * It is a must for each week to do software architecture planning.
 * Will be more advanced each week with new components (server, etc)
 # Weekly Workshops and Project
-Intro to APIs - great
-API workshop - great
-Callback workshop - hard, some would like to do more
-Event Loop (video) - bit long but clears up many things
-Flexbox Dice - enjoyable and educational, very popular
-Software Architecture Workshop - great
-Intro to npm - we will be doing more with this
-Software Design Workshop - great
-Data Manipulation morning challenge - hard but important to understand
-API Projects - brings the week learning together well
+* Intro to APIs - great
+* API workshop - great
+* Callback workshop - hard, some would like to do more
+* Event Loop (video) - bit long but clears up many things
+* Flexbox Dice - enjoyable and educational, very popular
+* Software Architecture Workshop - great
+* Intro to npm - we will be doing more with this
+* Software Design Workshop - great
+* Data Manipulation morning challenge - hard but important to understand
+* API Projects - brings the week learning together well
 Some want to move code review to the day before so we have more time to make changes, maybe get ideas from other projects, or get help where we need it.
 Decided:  Mentors (only) will do code review Weds.
