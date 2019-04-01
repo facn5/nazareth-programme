@@ -27,15 +27,15 @@
 
 # Workshops
 * Intro to Node
-** would have liked a pre-intro maybe the week before (a suggested intro video or something)
+ * would have liked a pre-intro maybe the week before (a suggested intro video or something)
 * Code Along
-** all liked
+ * all liked
 * Node Girls WS
-** all good
+ * all good
 Modularisation
 * ES6
-** all good
+ * all good
 * Research
-** some feel too much time allotted for this
+ * some feel too much time allotted for this
 * Project
-** all good
+ * all good
